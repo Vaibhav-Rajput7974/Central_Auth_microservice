@@ -10,3 +10,6 @@ To run this server, simply execute.
 3.Replace the issuer-url in the application.yml file with the appropriate URL from your Keycloak realm.
 4.Implement OAuth2-based authentication in the postman or similar tool.
 5.Obtain a token for the user and include it in requests.
+
+
+for more referance - https://www.youtube.com/watch?v=KpITcN7O53Y
