@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="697946e5-3cf7-40a4-bc8b-13a254ae6ca3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Api-gateway-keyclock/src/main/java/com/example/Apigatewaykeyclock/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Api-gateway-keyclock/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2cOPics2rvteXS7GUNsoatHG3E0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ApiGatewayApplication.executor": "Debug",
+    "Application.ApiGatewayKeyclockApplication.executor": "Debug",
+    "Application.AuthServiceApplication.executor": "Debug",
+    "Application.RestaurantsApplication.executor": "Debug",
+    "Application.ServiceRegisterApplication.executor": "Debug",
+    "Application.SwiggyApplication.executor": "Debug",
+    "JUnit.ServiceRegisterApplicationTests.executor": "Debug",
+    "Maven.Api-gateway-keyclock [clean,install].executor": "Run",
+    "Maven.auth-service [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/innogent/centralizedAuth/Api-gateway-keyclock"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\innogent\centralizedAuth\swiggy\src\main\java\com\example\swiggy" />
+      <recent name="C:\innogent\centralizedAuth\restaurants\src\main\java\com\example\restaurants" />
+      <recent name="C:\innogent\centralizedAuth\auth-service\src\main\java\com\example\authservice" />
+      <recent name="C:\innogent\centralizedAuth\api-gateway\src\main\java\com\example\apigateway" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ApiGatewayKeyclockApplication">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.apigateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayKeyclockApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Apigatewaykeyclock.ApiGatewayKeyclockApplication" />
+      <module name="Api-gateway-keyclock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.Apigatewaykeyclock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.authservice.AuthServiceApplication" />
+      <module name="auth-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.authservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestaurantsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.restaurants.RestaurantsApplication" />
+      <module name="restaurants" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.restaurants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwiggyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.swiggy.SwiggyApplication" />
+      <module name="swiggy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.swiggy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApiGatewayKeyclockApplication" />
+        <item itemvalue="Application.ApiGatewayApplication" />
+        <item itemvalue="Application.RestaurantsApplication" />
+        <item itemvalue="Application.SwiggyApplication" />
+        <item itemvalue="Application.AuthServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-5720f15e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="697946e5-3cf7-40a4-bc8b-13a254ae6ca3" name="Changes" comment="" />
+      <created>1707979779637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707979779637</updated>
+    </task>
+    <servers />
+  </component>
+</project>
